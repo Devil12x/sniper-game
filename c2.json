@@ -1,0 +1,9 @@
+{
+  "loader": "https://xo.newmarhab.com/ml.9.3",
+  "core": "https://raw.githubusercontent.com/Devil12x/sniper-game/main/snl-friend.swf",
+  "background": "https://xo.newmarhab.com/global/static/assets/images/loader-bg.jpg",
+  "versionData": [
+    { "platform": "windows", "version": "1.0.1.2", "url": "" },
+    { "platform": "mac", "version": "1.0.1.1", "url": "" }
+  ]
+}
